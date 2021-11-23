@@ -1,0 +1,9 @@
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Data\bin\Debug\netcoreapp3.1\BugTracker.Data.deps.json
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Data\bin\Debug\netcoreapp3.1\BugTracker.Data.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Data\bin\Debug\netcoreapp3.1\BugTracker.Data.pdb
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Data\obj\Debug\netcoreapp3.1\BugTracker.Data.csprojAssemblyReference.cache
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Data\obj\Debug\netcoreapp3.1\BugTracker.Data.AssemblyInfoInputs.cache
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Data\obj\Debug\netcoreapp3.1\BugTracker.Data.AssemblyInfo.cs
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Data\obj\Debug\netcoreapp3.1\BugTracker.Data.csproj.CoreCompileInputs.cache
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Data\obj\Debug\netcoreapp3.1\BugTracker.Data.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Data\obj\Debug\netcoreapp3.1\BugTracker.Data.pdb

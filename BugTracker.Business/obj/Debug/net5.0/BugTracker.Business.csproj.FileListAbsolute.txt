@@ -1,0 +1,17 @@
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\bin\Debug\net5.0\BugTracker.Business.deps.json
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\bin\Debug\net5.0\BugTracker.Business.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\bin\Debug\net5.0\ref\BugTracker.Business.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\bin\Debug\net5.0\BugTracker.Business.pdb
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\bin\Debug\net5.0\BugTracker.Core.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\bin\Debug\net5.0\BugTracker.Data.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\bin\Debug\net5.0\BugTracker.Core.pdb
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\bin\Debug\net5.0\BugTracker.Data.pdb
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\obj\Debug\net5.0\BugTracker.Business.csprojAssemblyReference.cache
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\obj\Debug\net5.0\BugTracker.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\obj\Debug\net5.0\BugTracker.Business.AssemblyInfoInputs.cache
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\obj\Debug\net5.0\BugTracker.Business.AssemblyInfo.cs
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\obj\Debug\net5.0\BugTracker.Business.csproj.CoreCompileInputs.cache
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\obj\Debug\net5.0\BugTracker.Business.csproj.CopyComplete
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\obj\Debug\net5.0\BugTracker.Business.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\obj\Debug\net5.0\ref\BugTracker.Business.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Business\obj\Debug\net5.0\BugTracker.Business.pdb

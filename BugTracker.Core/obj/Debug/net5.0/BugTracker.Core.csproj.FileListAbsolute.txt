@@ -1,0 +1,12 @@
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\bin\Debug\net5.0\BugTracker.Core.deps.json
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\bin\Debug\net5.0\BugTracker.Core.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\bin\Debug\net5.0\ref\BugTracker.Core.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\bin\Debug\net5.0\BugTracker.Core.pdb
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\obj\Debug\net5.0\BugTracker.Core.csprojAssemblyReference.cache
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\obj\Debug\net5.0\BugTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\obj\Debug\net5.0\BugTracker.Core.AssemblyInfoInputs.cache
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\obj\Debug\net5.0\BugTracker.Core.AssemblyInfo.cs
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\obj\Debug\net5.0\BugTracker.Core.csproj.CoreCompileInputs.cache
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\obj\Debug\net5.0\BugTracker.Core.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\obj\Debug\net5.0\ref\BugTracker.Core.dll
+C:\Users\sm120.SOURCEMASH\source\repos\BugTracker\BugTracker.Core\obj\Debug\net5.0\BugTracker.Core.pdb
